@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-color:  #f3e5ce; 
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: #f49026; 
+}
+
+
+.left-content {
+    flex: 100%;
+    background-color:  #fff5e6; 
+    padding: 10px;
+}
+
+.right-content {
+    flex: 20%;
+    background-color: #f3e5ce;
+    padding: 20px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+.casita {
+    display: flex;
+    justify-content: center;
+    width: 9%; 
+    margin: 0 auto; 
+    padding: 15px;
+}
